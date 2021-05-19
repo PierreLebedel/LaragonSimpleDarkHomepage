@@ -1,9 +1,14 @@
 <?php
 
+/**
+ * Pierre Lebedel
+ * https://www.pierrelebedel.fr
+ * https://github.com/PierreLebedel/LaragonSimpleDarkHomepage
+ */
+
 $laragon_title = $_SERVER['HTTP_HOST'];
 $laragon_baseline = "Where everything starts.";
 $laragon_extension = '.localhost';
-
 
 ?><!doctype html>
 <head>
